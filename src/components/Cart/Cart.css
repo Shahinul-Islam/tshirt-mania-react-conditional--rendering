@@ -1,0 +1,12 @@
+.cart-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cart-item p {
+  margin-right: 10px;
+}
+.cart-item button {
+  height: 20px;
+  cursor: pointer;
+}

@@ -1,0 +1,10 @@
+.tshirt-card {
+  border: 1px solid lightgreen;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.tshirt-image img {
+  height: 200px;
+  width: 170px;
+}
