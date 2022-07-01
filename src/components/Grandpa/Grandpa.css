@@ -1,0 +1,22 @@
+.grandpa {
+  /* border: 2px solid goldenrod; */
+  background-color: slategrey;
+  /* display: flex; */
+  display: grid;
+  grid-template-columns: auto;
+  grid-auto-flow: column;
+  justify-content: center;
+  /* justify-items: center; */
+}
+
+.grandpa,
+.grandpa div {
+  border: 2px solid wheat;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.grandpa div {
+  min-width: 150px;
+}
